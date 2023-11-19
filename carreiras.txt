@@ -1,0 +1,76 @@
+{
+    "Estagiário": {
+        "salario": "1200",
+        "regime": "mensalista",
+        "promocoes": [
+            "Analista De Suporte"
+        ]
+    },
+    "Analista De Suporte": {
+        "salario": "1800",
+        "regime": "mensalista",
+        "promocoes": [
+            "Desenvolvedor",
+            "Arquiteto De Software",
+            "Analista De Qualidade",
+            "Analista De Dados",
+            "Designer De Interface"
+        ]
+    },
+    "Analista De Dados": {
+        "salario": "2200",
+        "regime": "horista",
+        "promocoes": [
+            "Gerente De Desenvolvimento"
+        ]
+    },
+    "Analista De Qualidade": {
+        "salario": "2600",
+        "regime": "horista",
+        "promocoes": [
+            "Gerente De Desenvolvimento"
+        ]
+    },
+    "Arquiteto de Software": {
+        "salario": "2700",
+        "regime": "horista",
+        "promocoes": [
+            "Gerente De Desenvolvimento"
+        ]
+    },
+    "Desenvolvedor": {
+        "salario": "2800",
+        "regime": "horista",
+        "promocoes": [
+            "Gerente De Desenvolvimento"
+        ]
+    },
+    "Designer De Interface": {
+        "salario": "2700",
+        "regime": "horista",
+        "promocoes": [
+            "Gerente De Desenvolvimento"
+        ]
+    },
+    "Gerente De Desenvolvimento": {
+        "salario": "4800",
+        "regime": "horista",
+        "promocoes": [
+            "Gerente De Projetos"
+        ]
+    },
+    "Gerente De Projetos": {
+        "salario": "6800",
+        "regime": "mensalista",
+        "promocoes": [
+            "Diretor de Tecnologia"
+        ]
+    },
+    "Diretor De Tecnologia": {
+        "salario": "10200",
+        "regime": "mensalista",
+        "promocoes": [
+            ""
+        ]
+    }
+}
